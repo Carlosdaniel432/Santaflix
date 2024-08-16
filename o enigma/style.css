@@ -1,0 +1,32 @@
+header {
+
+    font-size: 32px;
+    color: blueviolet;
+
+}
+
+body {
+    color: white;
+    background: black;
+}
+
+.seletor {
+  display:flex;
+  overflow: auto;
+  gap: 20px; ;
+}
+img {
+    height: 200px;
+
+}
+.seletor img{
+
+opacity: 0.5;
+
+
+}
+.seletor img:hover{
+
+opacity: 1.0;
+
+}
